@@ -1,0 +1,46 @@
+*{
+    font-family: Libre Baskerville; 
+    cursor:pointer;  
+    text-align:center; 
+}
+nav a {
+    text-align: right;
+    float:right;
+    margin:10px;
+    color: green;
+    font-size: 25px;
+}
+nav:hover{
+    color: white;
+}
+h1{
+text-align:center;
+color: rgb(238, 76, 12);
+font-family: Libre Baskerville;
+font-size: 25px;
+border: 25px inset rgb(224, 96, 96);
+} 
+
+}    
+img{
+text-align:center;    
+height:1240px;
+width: 700px;
+}
+a img {
+border: 25px solid #131212; 
+   
+   }
+
+p{
+    text-align:center;    
+}    
+}
+
+.image {
+    text-align: center;
+}
+.footer{
+text-align:left;      
+}
+
